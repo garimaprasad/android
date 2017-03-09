@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bstto_ll">BSTtoLLActivity</string>
+    <string name="title_activity_add_two_num">AddTwoNumActivity</string>
+    <string name="title_activity_check_palindrome">CheckPalindromeActivity</string>
+</resources>
